@@ -1,0 +1,52 @@
+{
+    "info": [
+        {
+            "Phone number": 380982527531,
+            "Name": "Serhii Shostak",
+            "Location": "Rivne",
+            "Email": "Serhii_Shostak.Rivne@Rivne.com"
+        },
+        {
+            "Phone number": 380340598865,
+            "Name": "Vlad Cireev",
+            "Location": "Ukraine",
+            "Email": "Vlad_Cireev.Ukraine@Ukraine.com"
+        },
+        {
+            "Phone number": 380340578345,
+            "Name": "Vlad Cireev",
+            "Location": "Poland",
+            "Email": "Vlad_Cireev.Poland@Poland.com"
+        },
+        {
+            "Phone number": 380320538575,
+            "Name": "Sasha Mach",
+            "Location": "Kiev",
+            "Email": "Sasha_Mach.Kiev@Kiev.com"
+        },
+        {
+            "Phone number": 380342598525,
+            "Name": "Dima Don",
+            "Location": "Krakov",
+            "Email": "Dima_Don.Krakov@Krakov.com"
+        },
+        {
+            "Phone number": 380342598525,
+            "Name": "Liza Gray",
+            "Location": "Canada",
+            "Email": "Liza_Gray.Canada@Canada.com"
+        },
+        {
+            "Phone number": 380342598525,
+            "Name": "Liza Gray",
+            "Location": "Canada",
+            "Email": "Liza_Gray.Canada@Canada.com"
+        },
+        {
+            "Phone number": 380342598525,
+            "Name": "Liza Gray",
+            "Location": "Rome",
+            "Email": "Liza_Gray.Rome@Rome.com"
+        }
+    ]
+}
