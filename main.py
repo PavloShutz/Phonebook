@@ -1,3 +1,5 @@
+"""Phonebook terminal"""
+
 from phonebook import PhoneBook
 
 contact_book = PhoneBook(None, None, None, None)
@@ -30,4 +32,13 @@ while True:
     elif user_input == '2':
         location = input("Input location >>> ")
         search = contact_book.search_by_location(location)
-        print(search) if search else print("There is no contact by this location :(")
+        print(search) if search \
+            else print("There is no contact by this location :(")
+    elif user_input == '3':
+        email = input("Write an email >>> ")
+        search = contact_book.search_by_email(email)
+        print(search) if search \
+            else print("There is no contact by this email :(")
+    elif user_input == '4':
+        print(contact_book.show_all_users())
+        contact = input("Choose the contact you want to delete >>> ")
